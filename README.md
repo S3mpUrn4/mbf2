@@ -1,2 +1,2 @@
-# mbf2
-selamat menggunakan tools maling ini yak tod :)
+# mbf
+gunakan tools ini dengan bijak yak tod :D
